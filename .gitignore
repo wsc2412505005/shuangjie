@@ -1,0 +1,5 @@
+# 本地工具数据，不发布到线上
+.codebuddy/
+generated-images/
+.DS_Store
+Thumbs.db
